@@ -322,7 +322,6 @@ hr {
   -moz-transition-property: -moz-transform;
   transition-property: transform; }
   .tile .tile-inner {
-    
     border-radius: 3px;
     background: #eee4da;
     text-align: center;
@@ -335,13 +334,13 @@ hr {
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkfVZIsG18mTsBVuj-eC0dujJkv8ifmqI5dapSaJInWt20vn9A");
+    background: url("http://img.jf258.com/uploads/2013-07-21/090911671.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkfVZIsG18mTsBVuj-eC0dujJkv8ifmqI5dapSaJInWt20vn9A");
+    background: url("http://4.bp.blogspot.com/-U03X5IU6uz0/TjzvMapvJEI/AAAAAAAAAgs/fPQHjqHpCHI/s1600/images.jpg");
     background-size: cover;
     color: rgb(0,0,0,0);
 }
